@@ -1,0 +1,10 @@
+c:\users\viniciussilva\projetos\DISimpleInjector\DISimpleInjector\bin\Debug\DISimpleInjector.exe.config
+c:\users\viniciussilva\projetos\DISimpleInjector\DISimpleInjector\bin\Debug\DISimpleInjector.exe
+c:\users\viniciussilva\projetos\DISimpleInjector\DISimpleInjector\bin\Debug\DISimpleInjector.pdb
+c:\users\viniciussilva\projetos\DISimpleInjector\DISimpleInjector\bin\Debug\SimpleInjector.dll
+c:\users\viniciussilva\projetos\DISimpleInjector\DISimpleInjector\bin\Debug\SimpleInjector.xml
+c:\users\viniciussilva\projetos\DISimpleInjector\DISimpleInjector\obj\Debug\DISimpleInjector.csprojResolveAssemblyReference.cache
+c:\users\viniciussilva\projetos\DISimpleInjector\DISimpleInjector\obj\Debug\DISimpleInjector.exe
+c:\users\viniciussilva\projetos\DISimpleInjector\DISimpleInjector\obj\Debug\DISimpleInjector.pdb
+C:\Users\viniciussilva\projetos\DISimpleInjector\DISimpleInjector\bin\Debug\nunit.framework.dll
+C:\Users\viniciussilva\projetos\DISimpleInjector\DISimpleInjector\bin\Debug\nunit.framework.xml
